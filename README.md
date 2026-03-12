@@ -19,7 +19,7 @@
 ```yaml
 Name      : Kosanam Sarath Kumar
 Role      : Full-Stack SDET (Software Development Engineer in Test)
-Focus     : Web Automation | Mobile Automation | API Testing | CI/CD
+Focus     : Web Automation | Mobile Automation | API Testing | CI/CD | Manual Testing
 Frameworks: Selenium, Playwright, Appium, Cucumber (BDD), REST Assured
 Languages : Java, TypeScript, Python
 Tools     : GitHub Actions, Maven, IntelliJ IDEA, VS Code, Eclipse IDE
